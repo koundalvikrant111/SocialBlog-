@@ -4,11 +4,11 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "install-server": "cd Backend Chatterly && npm install",
-      "start-server": "cd Backend Chatterly && node index.js",
-      "install-client": "cd Frontend Chatterly && npm install",
-      "build-client": "cd Frontend Chatterly && npm run build",
-      "start-client": "cd Frontend Chatterly && npm run start"
+      "install-server": "cd SocialBlogBackend && npm install",
+      "start-server": "cd SocialBlogBackend && node index.js",
+      "install-client": "cd SocialBlogFrontend && npm install",
+      "build-client": "cd SocialBlogFrontend && npm run build",
+      "start-client": "cd SocialBlogFrontend && npm run start"
     },
     "keywords": [],
     "author": "",
